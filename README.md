@@ -1,1 +1,1 @@
-# k3-news
+# kube-news
